@@ -9,3 +9,6 @@ build a new branch dev
 
 # 4
 finished the feature
+
+# 5
+push commit after rebase command
