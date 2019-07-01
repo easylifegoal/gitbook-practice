@@ -12,3 +12,5 @@ finished the feature
 
 # 5
 push commit after rebase command
+
+this is a rebase command
